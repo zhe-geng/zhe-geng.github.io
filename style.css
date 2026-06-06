@@ -102,8 +102,7 @@ body {
 
 .hero-photo img {
   width: 180px;
-  height: 220px;
-  object-fit: cover;
+  height: auto;
   border-radius: 2px;
   filter: grayscale(15%);
 }
@@ -270,7 +269,7 @@ footer {
     gap: 24px;
   }
   .hero-photo { order: -1; }
-  .hero-photo img { width: 140px; height: 170px; }
+  .hero-photo img { width: 140px; height: auto; }
   .hero h1 { font-size: 34px; }
   .site-header nav { gap: 18px; font-size: 13px; }
 }
