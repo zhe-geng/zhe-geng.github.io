@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhe-geng.github.io/sitemap.xml
