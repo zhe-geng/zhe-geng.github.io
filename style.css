@@ -243,6 +243,13 @@ section h2 {
   margin: 6px 0 0;
 }
 
+.sched-note {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 20px 0 0;
+  font-style: italic;
+}
+
 /* Contact */
 #contact p {
   margin: 0 0 8px;
